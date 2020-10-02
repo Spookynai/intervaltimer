@@ -108,17 +108,6 @@ button:hover::after {
   opacity: 0;
 }
 
-#add {
-  margin: 10px;
-}
-
-.add-button {
-  margin: 10px;
-  width: 60vw;
-  border: 2px #D81E5B solid;
-  color: #D81E5B;
-  background: #F4F5F6;
-}
 
 /* End of Button Styling */
 
